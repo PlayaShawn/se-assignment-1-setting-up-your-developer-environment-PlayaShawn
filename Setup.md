@@ -26,17 +26,16 @@ This document outlines the step-by-step process for setting up a developer envir
         Add and commit the README file:
           git add README.md
           git commit -m "Initial commit"
-          ![alt text](Commit.png)
 4. Install Necessary Programming Languages and Runtimes
      Install Python.Visit the Python Download Page and Download the latest version for Windows.
      Run the installer and make sure to check the box "Add Python to PATH" while following the on-screen instructions to complete the installation.
      Verify Python Installation.Open a terminal in Visual Studio Code:
-     ![alt text](PythonVer.png)
+     ![alt text](PyVersion.png)
 
 5. Install Package Managers
      Install pip (Python).Pip is installed by default with Python. 
      Verify the installation:
-     ![alt text](PipVersion.png)
+     ![alt text](PipVers.png)
 
 6. Configure a Database (MySQL)
      Download and Install MySQL.(Visit the MySQL Installer page and download the MySQL Installer for Windows.)
